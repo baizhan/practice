@@ -1,0 +1,15 @@
+import time
+import turtle
+t=turtle.Pen()
+t.forward(150)
+t.left(60)
+t.forward(150)
+t.left(60)
+t.forward(150)
+t.left(60)
+t.forward(150)
+t.left(60)
+t.forward(150)
+t.right(90)
+t.forward(150)
+time.sleep(10)
