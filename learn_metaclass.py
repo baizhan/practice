@@ -1,0 +1,2 @@
+class ObjectCreator(object):
+    pass
